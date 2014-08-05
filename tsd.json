@@ -1,0 +1,15 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "Reddit-API/typings",
+  "bundle": "Reddit-API/typings/tsd.d.ts",
+  "installed": {
+    "karma-jasmine/karma-jasmine.d.ts": {
+      "commit": "99805384e2702609d78632c7cc965f11b75081c9"
+    },
+    "jasmine/jasmine.d.ts": {
+      "commit": "99805384e2702609d78632c7cc965f11b75081c9"
+    }
+  }
+}
