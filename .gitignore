@@ -3,3 +3,4 @@ node_modules/
 typings/
 Reddit-API/**/*.js
 *.js.map
+*.csproj.user
